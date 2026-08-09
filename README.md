@@ -27,13 +27,13 @@ The dashboard was designed to answer key business questions:
 
 The Overview provides a high-level view of the company's commercial performance through key KPIs, temporal trends, and comparisons across countries and product categories.
 
-![Executive Overview](images/overview_dashboard.png)
+![Executive Overview](<img width="2075" height="1200" alt="Andes Retail Group - Executive Sales Dashboard (2024–2025) 3 0_page-0001" src="https://github.com/user-attachments/assets/f0c66f24-763a-4d3f-9cc1-d0c7b8dcc251" />)
 
 ### Detailed Analysis
 
 The Detail view allows deeper exploration of profitability, seasonality, customer segments, and product categories.
 
-![Detailed Analysis](images/detail_dashboard.png)
+![Detailed Analysis](<img width="2075" height="1200" alt="Andes Retail Group - Executive Sales Dashboard (2024–2025) 3 0_page-0002" src="https://github.com/user-attachments/assets/6f9a69dc-4add-4cc2-a532-97d8f6e66718" />)
 
 ---
 
