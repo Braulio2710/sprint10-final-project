@@ -33,7 +33,7 @@ The Overview provides a high-level view of the company's commercial performance 
 
 The Detail view allows deeper exploration of profitability, seasonality, customer segments, and product categories.
 
-![Detailed Analysis](https://drive.google.com/file/d/1b_pRS4ahhn2frGQOGBLzh6MEYEYloWAC/view?usp=sharing)
+![Detailed Analysis](images/Detailed Analysis.jpg)
 
 ---
 
